@@ -1,3 +1,6 @@
+@extends('layout.masterPortfolio')
+
+
 <section id="portfolio" class="bg-light-gray">
     <div class="container">
         <div class="row">

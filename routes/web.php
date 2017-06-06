@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('layout.master');
 });
+Route::get('/portfolio', function(){
+   return view('home_content/portfolio');
+});
